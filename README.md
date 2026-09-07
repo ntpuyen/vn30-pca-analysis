@@ -23,7 +23,7 @@ Bạn có thể xem báo cáo phân tích chi tiết tại:
 * **Sector Leadership:** Xác định rõ sự dẫn dắt của nhóm Ngân hàng (TPB, ACB, TCB) đối với xu hướng chung.
 * **Sector Rotation (PC2/PC3):** Phát hiện sự phân hóa dòng tiền giữa nhóm Bất động sản và nhóm Công nghiệp/Năng lượng.
 
-## 🛠 **Công nghệ sử dụng**
+## **Công nghệ sử dụng**
 - **Ngôn ngữ:** Python
 - **Phân tích dữ liệu:** `pandas`, `numpy`, `scikit-learn` (PCA)
 - **Trực quan hóa:** `plotly`, `seaborn`, `matplotlib`
